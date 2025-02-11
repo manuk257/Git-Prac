@@ -4,3 +4,5 @@ git add
 git commit -m "First commit"
 git clone
 git checkout -b master
+git checkout -b "copy1"
+git clone "url of repository u wanna clone"
